@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "alx-react",
+			"path": "../../../alx-react"
+		}
+	],
+	"settings": {}
+}

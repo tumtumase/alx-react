@@ -1,14 +1,5 @@
-{
-  "name": "alx-react",
-  "version": "1.0.0",
-  "description": "ALX React projects",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "immutable": "^4.3.7"
-  }
+"scripts": {
+  "test": "jest",
+  "test:reducer": "jest src/reducers/notificationReducer.test.js",
+  "test:watch": "jest --watch"
 }
